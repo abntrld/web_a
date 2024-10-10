@@ -1,2 +1,2 @@
 # web_adina
-web gesign project
+web design project
